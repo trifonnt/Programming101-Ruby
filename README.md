@@ -1,6 +1,6 @@
 # Programming101-Ruby
 
-The repository for Programming 101 with Ruby.
+The repository for [Programming 101 with Ruby](https://hackbulgaria.com/courses/programming101-with-ruby/).
 
 ## Course Program
 
